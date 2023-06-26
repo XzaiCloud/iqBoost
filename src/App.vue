@@ -15,7 +15,6 @@
                 <p>现在，我们推出了 iqBoost 这款革命性的新产品可以帮助你释放全部潜力。我们的专有配方基于尖端研究，并已被证明在提高大脑功能方面非常有效。</p>
                 <p>最棒的是， iqBoost 非常容易使用。只需服用一粒胶囊，您就会很快感受到效果。无论是在备考考试、进行项目工作还是只是想提高认知能力， iqBoost 都是适合您的产品。</p>
                 <p>还在等什么？立即购买 iqBoost，释放您的全部潜力！</p>
-                <el-button tag="a" href="./iqBoost/">LowIQ用户大赏</el-button>
                 <el-divider/>
                 <p><a id="hitokoto">
                     <el-icon class="is-loading">
